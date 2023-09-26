@@ -164,7 +164,7 @@ const page = () => {
               <Link href={`/experiments/${item.slug}`} key={index}>
                 <div className='flex flex-col '>
                   <Image className='rounded-t-lg ' width={250} height={100} src={item.image} alt="banner_image" />
-                  <span className='bg-white font-semibold text-black p-1  rounded-b-lg'>{item.title}</span>
+                  <span className='bg-white font-semibold text-black p-1 pl-3 rounded-b-lg'>{item.title}</span>
                 </div>
               </Link>
             ))}

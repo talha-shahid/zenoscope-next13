@@ -21,7 +21,7 @@ const HomePage = () => {
           <Image className='rounded-lg '  height={100} width={1500} src="/learning.jpg" alt="banner" />
         </div>
         <div className='text-center '>
-          <p className='md:-mt-[550px] -mt-[180px] md:text-5xl font-medium '>Interactive Simulation and Algorithm Visualizer<br/> in Both Science and Computer Fields</p>
+          <p className='md:-mt-[550px] -mt-[180px] md:text-5xl font-medium '>Interactive Simulation and Algorithm Visualizer in Both Science <br/>and Computer Fields</p>
           <Link href="/experiments"><button className='mt-5 p-3 rounded-2xl border border-spacing-1'>Explore Our Sims</button></Link>
         </div>
       </div>
