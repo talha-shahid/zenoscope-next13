@@ -1,0 +1,183 @@
+[
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/greenhouse-effect.png",
+        "title": "Greenhouse Effect",
+        "slug":"greenhouse-effect",
+        "intro": "The Greenhouse Effect is a fascinating and crucial scientific phenomenon that plays a pivotal role in our planet's climate system. Understanding it is not only important for scientific knowledge but also for comprehending the ongoing global climate change.\nOur Greenhouse Effect experiment is designed to provide you with a hands-on experience that unravels the mysteries behind this natural process. As you embark on this journey, you will explore the fundamental principles, causes, and consequences of the Greenhouse Effect, all from the comfort of your own environment.\nThrough engaging simulations and interactive activities, we aim to demystify this complex concept and shed light on its significance in today's world. Join us in this exploration of the Greenhouse Effect, where science meets real-world relevance, and where knowledge is the key to a more sustainable future.",
+        "topics": [ 
+            "Greenhouse Gases",
+            "Thermal Equilibrium",
+            "Radiative Balance",
+            "Albedo",
+            "Climate"
+        ],
+        "goals": [
+            "Describe the effect of greenhouse gases and clouds on sunlight, infrared radiation, and surface temperature.",
+            "Explain why greenhouse gases affect the temperature.",
+            "Compare and contrast the behavior of sunlight and infrared radiation.",
+            "Describe radiative balance and use it to explain the relationship between the surface temperature and greenhouse gas concentration.",
+            "Compare the effect of greenhouse gases to the effect of infrared absorbing layers."
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\nSee full HTML5 system requirements.\nInclusive features are added to HTML5 sims only, and some features have platform limitations. See Accessible Sims for more details on system requirements and tested platforms."
+    },
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/masses-and-springs.png",
+        "title": "Masses and Springs",
+        "slug":"masses-and-springs",
+        "intro": "In the realm of physics, few experiments capture the essence of fundamental principles as elegantly as the Masses and Springs experiment. It is a classic exploration that delves into the heart of mechanical physics, offering valuable insights into the behavior of masses in the presence of springs.\nThis experiment revolves around the interplay of two essential elements: mass and elasticity. By suspending weights on springs and observing their motions, we gain profound insights into the laws governing motion, equilibrium, and oscillation.\nOur Masses and Springs experiment is designed to take you on a captivating journey through these concepts. It's an exploration that begins with an introduction to equilibrium, where forces balance, and moves into the intriguing world of oscillation, where energy and motion harmonize.\nThrough interactive simulations and hands-on activities, we aim to make these principles not just comprehensible but also engaging. Whether you're a student embarking on your physics journey or simply a curious mind seeking to understand the world around you, this experiment promises to demystify the wonders of physics in an accessible and enjoyable way.\nJoin us as we uncover the secrets hidden within masses and springs. Let's embark on this scientific adventure, where learning is an exciting discovery, and where the laws of nature come to life.",
+        "topics": [ 
+            "Periodic Motion",
+            "Hooke's Law",
+            "Conservation of Energy",
+            "Newton's Law",
+            "Measurement",
+            "Vectors"
+        ],
+        "goals": [
+            "Determine the factors which affect the period of oscillation",
+            "Find the value of g on Planet X",
+            "Design an experiment to determine the mass of an unknown object",
+            "Describe the relationship between the velocity and acceleration vectors, and their relationship to motion, at various points in the oscillation",
+            "Explain how the free-body diagram of the mass changes throughout its oscillation",
+            "Explain the Conservation of Mechanical Energy using kinetic, elastic potential, gravitational potential, and thermal energy"
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems. See full HTML5 system requirements."
+    },
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/wave-interference.png",
+        "title": "Wave interference",
+        "slug":"wave-interference",
+        "intro": "Wave interference, a mesmerizing phenomenon in the world of physics, takes us on a captivating journey into the intricate nature of waves and their interactions. It's a phenomenon that beautifully exemplifies the fundamental principles of superposition, creating patterns and behaviors that continue to astonish and inspire scientists and enthusiasts alike.\nIn the realm of wave interference, waves come together and create a dance of highs and lows, peaks and troughs, resulting in an amalgamation of energies that can either reinforce or cancel each other out. This phenomenon is not confined to a single field of science; it transcends disciplines, from optics and acoustics to quantum mechanics and beyond.\nOur exploration of wave interference will immerse you in the wonders of this phenomenon. Through simulations, visualizations, and interactive experiments, we aim to demystify the complexities and showcase the elegance of wave behavior. Whether you're a budding physicist, a student delving into the mysteries of waves, or simply a curious mind intrigued by the beauty of science, this journey promises to unlock new dimensions of understanding and appreciation.",
+        "topics": [ 
+            "Interference",
+            "Double Slit",
+            "Diffraction",
+            "Waves"
+        ],
+        "goals": [
+            "Make waves with water, sound, and light and see how they are related.",
+            "Design an experiment to measure the speed of the wave.",
+            "Create an interference pattern with two sources, and determine the ways to change the pattern.",
+            "Find points of constructive and destructive interference by eye and by using the detectors.",
+            "Put up a barrier to see how the waves move through one or two slits. What sort of pattern do the slits create? How can you change this pattern?",
+            "For light, predict the locations of the fringes that appear on the screen using d sin(θ) = mλ. Use the tape measure to verify your predictions.",
+            "Explain how the aperture geometry relates to the diffraction pattern.",
+            "Predict how changing the wavelength or aperture size affects the diffraction pattern."
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\n See full HTML5 system requirements"
+    },
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/coulombs-law.png",
+        "title": "Colombs Law",
+        "slug":"colombs-law",
+        "intro": "Coulomb's Law, an elegant and foundational principle in the realm of electromagnetism, invites us to delve into the profound forces that shape the behavior of charged particles. This law is a cornerstone of our understanding of electricity and magnetism, unveiling the intricate dance between electric charges and the invisible forces that bind and repel them.\nAt its heart, Coulomb's Law articulates how charged particles interact. It tells a tale of attraction and repulsion, where the magnitude of force is directly proportional to the product of the charges and inversely proportional to the square of the distance between them. This law has far-reaching implications, from the behavior of electrons within atoms to the functioning of electric circuits and the dynamics of celestial bodies.\nOur exploration of Coulomb's Law invites you to unravel the mysteries of these electric interactions. Through engaging simulations, visual representations, and hands-on experiments, we aim to make this fundamental principle tangible and accessible. Whether you're an aspiring physicist, a student on a quest for knowledge, or simply a curious mind eager to grasp the forces that shape our world, this journey promises to shed light on the captivating realm of electromagnetism.",
+        "topics": [ 
+            "Electrostatics",
+            "Electric Force",
+            "Force Pairs",
+            "Coulomb's Law"
+        ],
+        "goals": [
+            "Relate the electrostatic force magnitude to the charges and the distance between them",
+            "Explain Newton's third law for electrostatic forces",
+            "Use measurements to determine Coulomb’s constant",
+            "Determine what makes a force attractive or repulsive"
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\n  See full HTML5 system requirements.\nInclusive features are added to HTML5 sims only, and some features have platform limitations. See Accessible Sims for more details on system requirements and tested platforms."
+    },
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/projectile-motion.png",
+        "title": "Projectile Motion",
+        "slug":"projectile-motion",
+        "intro": "Projectile Motion is a fascinating exploration of the physics that governs the motion of objects launched into the air. It's a journey through the graceful arcs and parabolic trajectories that define the flight of projectiles, from soaring rockets to the simple toss of a ball.\nIn the realm of projectile motion, we encounter the timeless principles of physics, such as gravity and velocity. These forces come together to shape the path of projectiles, whether they're launched for sport, scientific research, or space exploration.\nOur exploration invites you to dive into the world of objects in flight, where you'll uncover the secrets behind their trajectories and velocities. Through interactive simulations, visual demonstrations, and hands-on experiments, we aim to make the complex dynamics of projectile motion accessible and comprehensible.\nWhether you're an aspiring physicist, a student delving into the wonders of motion, or simply a curious mind eager to understand the mechanics of flight, this journey promises to inspire and enlighten.",
+        "topics": [ 
+            "Kinematics",
+            "Air Resistance",
+            "Parabolic Curve",
+            "Vectors",
+            "Drag Force",
+            "Projectile Motion"
+        ],
+        "goals": [
+            "Determine how each parameter (initial height, initial angle, initial speed, mass, diameter, and altitude) affects the trajectory of an object, with and without air resistance.",
+            "Predict how varying the initial conditions will affect a projectile’s path, and provide an explanation for the prediction.",
+            "Estimate where an object will land, given its initial conditions.",
+            "Determine that the x and y motion of a projectile are independent.",
+            "Investigate the variables that affect the drag force.",
+            "Describe the the effect that the drag force has on the velocity and acceleration.",
+            "Discuss projectile motion using common vocabulary (such as: launch angle, initial speed, initial height, range, time)."
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\n  See full HTML5 system requirements"
+    },
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/gravity-and-orbits.png",
+        "title": "Gravity and Orbits",
+        "slug":"gravity-and-orbits",
+        "intro": "Gravity and Orbits is an exhilarating journey into the profound forces that shape the movements of celestial bodies in our universe. It's an exploration of the timeless principles of gravity and the awe-inspiring orbits that govern the paths of planets, moons, and stars.\nIn the vast expanse of space, gravity is the master orchestrator, guiding objects in their cosmic dance. It's the force that keeps planets in orbit around the sun, moons circling their host planets, and satellites traversing the skies.\nOur expedition invites you to delve into the world of celestial mechanics, where you'll witness the intricate interplay of gravity and motion. Through interactive simulations, visual representations, and hands-on experiments, we aim to make the profound concepts of gravity and orbits accessible to all.\nWhether you're an aspiring astronomer, a student eager to explore the mysteries of the cosmos, or simply a curious soul intrigued by the celestial wonders that surround us, this journey promises to enlighten and inspire.",
+        "topics": [ 
+            "Gravitational Force",
+            "Circular Motion",
+            "Astronomy"
+        ],
+        "goals": [
+            "Describe the relationship between the Sun, Earth, Moon and space station, including orbits and positions",
+            "Describe the size and distance between the Sun, Earth, Moon and space station",
+            "Explain how gravity controls the motion of our solar system",
+            "Identify the variables that affect the strength of gravity",
+            "Predict how motion would change if gravity was stronger or weaker"
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\n  See full HTML5 system requirements.\nInclusive features are added to HTML5 sims only, and some features have platform limitations. See Accessible Sims for more details on system requirements and tested platforms."
+    },
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/charges-and-fields.png",
+        "title": "Charges and Fields",
+        "slug":"charges-and-fields",
+        "intro": "Charges and Fields is a captivating journey into the electrifying realm of electromagnetism, where we unveil the intricate dance between electric charges and the fields they create. It's an exploration of the fundamental principles that govern the forces shaping our electric universe.\nIn the world of charges and fields, electric charges are the architects of electric and magnetic phenomena. These charges give rise to electric fields that permeate space, guiding the motion of charged particles and influencing the behavior of matter.\nOur expedition invites you to dive into the dynamic world of electric charges and fields, where you'll witness the invisible forces that surround us. Through interactive simulations, visual demonstrations, and hands-on experiments, we aim to make the profound concepts of electromagnetism accessible and engaging.\nWhether you're an aspiring physicist, a student eager to understand the nature of electric forces, or simply a curious mind intrigued by the invisible threads that connect our world, this journey promises to inspire and enlighten.",
+        "topics": [ 
+            "Electric Field",
+            "Electrostatics",
+            "Equipotential",
+            "Electrostatic Potential",
+            "Electric Charges",
+            "Voltage"
+        ],
+        "goals": [
+            "Determine the variables that affect the strength and direction of the electric field for a static arrangement of charges.",
+            "Investigate the variables that affect the strength of the electrostatic potential (voltage).",
+            "Explain equipotential lines and compare them to the electric field lines.",
+            "For an arrangement of static charges, predict the electric field lines. Verify the prediction using vector addition."
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\nSee full HTML5 system requirements"
+    },
+    {
+        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "image": "/pendulum-lab.png",
+        "title": "Pendulum Lab",
+        "slug":"pendulum-lab",
+        "intro": "Welcome to the Pendulum Lab, where we embark on an exploration of the rhythmic and mesmerizing motion of pendulums. It's a journey into the elegant dance of a suspended mass as it swings back and forth, revealing the intriguing principles of timekeeping and physics.\nThe pendulum, a timeless marvel, has been a symbol of precision and curiosity for centuries. Its predictable motion serves as the foundation for numerous timekeeping devices, from ancient pendulum clocks to modern atomic clocks.\nOur Pendulum Lab invites you to immerse yourself in the world of pendulum physics, where you'll uncover the secrets of oscillation and harmonic motion. Through interactive simulations, visual demonstrations, and hands-on experiments, we aim to make the enchanting world of pendulums accessible and captivating.\nWhether you're an aspiring physicist, a student eager to explore the wonders of oscillatory motion, or simply a curious mind fascinated by the mechanics of time, this journey promises to inspire and enlighten.",
+        "topics": [ 
+            "Periodic Motion",
+            "Simple Harmonic Motion",
+            "Conservation of Energy",
+            "Period",
+            "Pendulum"
+        ],
+        "goals": [
+            "Design experiments to determine which variables affect the period of a pendulum",
+            "Quantitatively describe how the period of a pendulum depends on these variables",
+            "Explain the small-angle approximation, and define what constitutes a “small” angle",
+            "Determine the gravitational acceleration of Planet X",
+            "Explain the conservation of mechanical energy, using kinetic energy and gravitational potential energy",
+            "Describe the Energy Graph from the position and speed of the pendulum"
+        ],
+        "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\nSee full HTML5 system requirements"
+    }
+    
+]
