@@ -23,7 +23,7 @@ const page = () => {
         <input className='p-4 my-3 text-xl md:w-[51%] rounded-lg bg-[#333d47]' placeholder='Country' type="text" />
         <input className='p-4 my-3 h-48 md:w-[51%] text-xl rounded-lg bg-[#333d47]' placeholder='Message' type="text" />
 
-        <p className='my-3 font-light'>By proceeding, you consent to Labster's processing of your information provided <br /> above in accordance with its  Privacy Policy, subject to its website Terms of <br /> Service and Use. You can unsubscribe or revoke your consent at any time.</p>
+        <p className='my-3 font-light'>By proceeding, you consent to Labster&apos;s processing of your information provided <br /> above in accordance with its  Privacy Policy, subject to its website Terms of <br /> Service and Use. You can unsubscribe or revoke your consent at any time.</p>
 
         <button className='p-2 my-5 md:mb-10 px-5 rounded-lg bg-[#0c8ce9] font-bold' type="submit">Submit</button>
       </form>
