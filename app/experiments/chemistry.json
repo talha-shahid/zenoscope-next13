@@ -1,6 +1,6 @@
 [
     {
-        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "link": "/build-a-nucleus.html",
         "image": "/build-a-nucleus.png",
         "title": " Build a Nucleus",
         "slug": "build-a-nucleus",
@@ -17,10 +17,10 @@
         "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\nSee full HTML5 system requirements"
     },
     {
-        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "link": "/build-a-molecule.html",
         "image": "/build-a-molecule.png",
         "title": "Build a Molecule",
-        "slug": "build-a-molecule ",
+        "slug": "build-a-molecule",
         "intro": "Molecules are the exquisite architects of our chemical world, the building blocks that compose everything around us. Each molecule, with its unique arrangement of atoms, holds the key to understanding the diverse substances that make up our universe. Welcome to \"Build a Molecule,\" where we embark on a journey through the captivating realm of chemistry and molecular creation.\nIn the intricate dance of atoms, we find the beauty of chemical bonds and the essence of matter's transformation. Molecules are the storytellers of chemical reactions, and understanding their structures and properties is fundamental to unlocking the mysteries of our everyday lives.\nOur exploration invites you to dive into the world of atoms and bonds, where you'll become the architect of your own molecules. Through interactive simulations and hands-on activities, we aim to make the fascinating world of molecules accessible to all. Whether you're a budding chemist, a student eager to explore the secrets of matter, or simply a curious mind intrigued by the wonders of chemistry, this journey promises to inspire and enlighten.",
         "topics": [
             "Molecular Formula",
@@ -60,7 +60,7 @@
         "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\nSee full HTML5 system requirements"
     },
     {
-        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "link": "/energy-forms-and-changes.html",
         "image": "/energy-forms-and-changes.png",
         "title": "Energy Forms and Changes",
         "slug": "energy-forms-and-changes",
@@ -82,7 +82,7 @@
         "system_requirements": "HTML5 simulations can run on iPads, Chromebooks, PC, Mac, and Linux systems.\nSee full HTML5 system requirements"
     },
     {
-        "link": "/greenhouse-effect_all_adapted-from-phet.html",
+        "link": "/molecule-shapes.html",
         "image": "/molecule-shapes.png",
         "title": "Molecule Shapes",
         "slug": "molecule-shapes",

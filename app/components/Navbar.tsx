@@ -6,6 +6,7 @@ import React, { useState } from 'react'
 
 //react icons imports
 import { HiMenuAlt3 } from 'react-icons/hi';
+import { AiOutlineRight } from 'react-icons/ai';
 
 const Navbar = () => {
     const [hidden, setHidden] = useState(false);
@@ -17,7 +18,7 @@ const Navbar = () => {
     <div className='sticky top-4 z-30'>
         <div className='flex justify-between bg-[#2d363f] rounded-xl shadow-xl p-3'>
             <div >
-               <Link className='flex gap-[6px] text-xl  items-center' href='/'>
+               <Link className='flex gap-[6px] text-xl pt-2 items-center' href='/'>
                     <Image src={"/logo.png"} width={30} height={20} alt="logo" />
                     <p className='text-white'>Zenoscope</p>
                </Link>
@@ -27,6 +28,8 @@ const Navbar = () => {
                 <a href="/algorithms" className='cursor-pointer hover:underline'>Algorithms</a>
                 <a href='/aboutUs' className='cursor-pointer hover:underline'>About us</a>
                 <a href='/contactUs' className='cursor-pointer hover:underline'>Contact us</a>
+                <button className='p-2 bg-[#1a232e] rounded-lg pr-10 px-3'> Login</button>
+                <AiOutlineRight className="-ml-14 text-black rounded-md bg-[#09d3ff] m-3 text-xl z-10" />
             </div>
             <div className='md:hidden'>
                 <HiMenuAlt3 size={30} onClick={toggleHidden}  />
@@ -37,7 +40,9 @@ const Navbar = () => {
             <a href="/algorithms" className='cursor-pointer hover:underline'>Algorithms</a>
             <a href='/aboutUs' className='cursor-pointer hover:underline'>About us</a>
             <a href='/contactUs' className='cursor-pointer hover:underline'>Contact us</a> 
+            <a href='/login' className='cursor-pointer hover:underline'>login</a> 
         </div>}
+
     </div>
   )
 }
