@@ -1,0 +1,152 @@
+.array-container {
+  justify-content: center;
+  transition: 2s all ease;
+  padding-bottom: 1%;
+}
+
+.array-bar {
+  display: inline-block;
+  border: none;
+}
+
+.navbar {
+  background-color: #0f172a;
+  color: white;
+  padding: 0 20px;
+  align-items: center;
+  box-shadow: 0px 6px 7px rgba(0, 0, 0, 0.562);
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0 0px;
+  overflow: hidden;
+}
+
+.button {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #1e293b;
+  border: 0;
+  color: white;
+  font-size: inherit;
+  margin-bottom: 10%;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.button:disabled {
+  color: lightgray;
+}
+
+.button:disabled:hover {
+  cursor: wait;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #92a9b8;
+  color: #ecf0f1;
+}
+
+.slidecontainer {
+  margin-top: 1.6%;
+}
+
+@media screen and (min-width: 1300px) {
+  .array-container {
+    margin-top: 3.5%;
+  }
+
+  #Heading {
+    padding: 15px;
+    font-size: 36px;
+    padding-bottom: 5px;
+  }
+
+  ul {
+    font-size: 20px;
+    margin-top: 2px;
+  }
+
+  .array-bar {
+    max-width: 6px;
+  }
+}
+
+@media screen and (max-width: 1300px) and (min-width: 768px) {
+  .array-container {
+    margin-top: 2%;
+  }
+
+  #Heading {
+    padding: 5px;
+    font-size: 30px;
+    padding-bottom: 5px;
+  }
+
+  ul {
+    font-size: 16px;
+    margin-top: 2px;
+  }
+
+  .array-bar {
+    max-width: 6px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .array-bar {
+    max-width: 4px;
+    margin: 0.5px !important;
+  }
+
+  #Heading {
+    padding: 5px;
+    font-size: 26px;
+    padding-bottom: 5px;
+  }
+}
+
+@media screen and (min-width: 450px) {
+  .reset {
+    position: absolute;
+    right: 25px;
+  }
+
+  li {
+    float: left;
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .array-container {
+    margin-top: 10%;
+  }
+
+  .array-bar {
+    max-width: 2px;
+    margin: 0.43px !important;
+  }
+
+  #Heading {
+    padding: 10px;
+    font-size: 24px;
+    padding-bottom: 5px;
+  }
+
+  ul {
+    font-size: 12px;
+  }
+
+  .reset {
+    position: absolute;
+    right: 20px;
+  }
+
+  li {
+    float: left;
+  }
+}
